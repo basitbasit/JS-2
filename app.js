@@ -1,0 +1,9 @@
+var spec = prompt("your Name","my Name is Sami")
+var question = "your Age"
+var deafultAnswar = "18 years"
+var spec = prompt(question,deafultAnswar)
+var spec = prompt("Email", "basitbasit4060@gmail.com")
+var question = "your jamia"
+var deafultAnswar = "qutbe e madina"
+var spec = prompt(question,deafultAnswar)
+var spec = prompt("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”","line design")
